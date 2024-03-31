@@ -1,0 +1,14 @@
+{
+  "name": "Shadowman Overworld Tracker",
+  "game_name": "Shadowman Remastered",
+  "platform": "pc",
+  "package_version": "0.0.1",
+  "package_uid": "shadowman_overworld",
+  "layout_engine_version": "1.0",
+  "author": "FrittenfettSenpai",
+  "variants": {
+    "standard": {
+      "display_name": "Map Tracker"
+    }
+  }
+}
